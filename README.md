@@ -4,7 +4,7 @@ Step 1: 1.Data Collection (Raw Data)
 2.Data Visualization 
 3.Data Proprocession 
   a.Explaratory Data Analysis (EDA) 
-  b.Data Deaning 
+  b.Data cleaning 
     i.Null Value Detection 
     ii.Data Duplication Handeling 
     iii.Uniformality in dataset(databyte) 
